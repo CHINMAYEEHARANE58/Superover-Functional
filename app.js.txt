@@ -1,0 +1,10 @@
+logo - https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/so-logo.png
+
+strike image -https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/so-strike-button.png
+
+reset image - https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/so-reset-button.png
+
+backgriund - https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/superover-bg.png
+
+font -@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;600;900&display=swap");
+    
